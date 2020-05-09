@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65578524718",
+    "firebase_url": "https://learning-app-429f5.firebaseio.com",
+    "project_id": "learning-app-429f5",
+    "storage_bucket": "learning-app-429f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65578524718:android:ffcf2d77d901d52318ffbf",
+        "android_client_info": {
+          "package_name": "com.yanmastra.simple.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65578524718-2d8l25b77s7pk9ktd11el80sm71ld0og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pyNOAYpgqb7PM6ROUB8NrGjq57_aV_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65578524718-2d8l25b77s7pk9ktd11el80sm71ld0og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
